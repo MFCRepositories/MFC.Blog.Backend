@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MFC.Blog.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:MFC.Blog.WebApi.Controllers.BlogsController">
+            <summary>
+            Blog Controller olusturuldu
+            </summary>
+        </member>
+        <member name="M:MFC.Blog.WebApi.Controllers.BlogsController.GetAll">
+            <summary>
+            Bütün blogları getirir
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:MFC.Blog.WebApi.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MFC.Blog.WebApi.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:MFC.Blog.WebApi.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+        </member>
+    </members>
+</doc>
